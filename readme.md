@@ -45,6 +45,3 @@ It was created as a <b>weekend web development revision project</b> to practice 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh_thakur12" height="30" width="40" />
   </a>
 </p>
-
-   git clone https://github.com/your-username/wanderlust.git
-   cd wanderlust
